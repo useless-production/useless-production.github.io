@@ -4,7 +4,7 @@
 	--light-blue: #85daff;
 	--green: #00f349;
 	--dark-green: #219e3c;
-	--light-gray: #d4e3e7;
+	--light-gray: #d4e7dc;
 }
 
 * {
@@ -160,4 +160,8 @@ nav {
 .model a {
 	text-decoration: none;
 	color: var(--dark-green);
+}
+
+.model h1 {
+	color: var(--light-gray);
 }
